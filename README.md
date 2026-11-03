@@ -39,13 +39,13 @@ Aplicação web responsiva com busca por cidade, geolocalização, conversão °
 
 [🔗 Ver site](https://kaxinhoskx.github.io/app-de-clima-pog/) · [📁 Ver repositório](https://github.com/kaxinhoskx/app-de-clima-pog)
 
-### ⌨️ Typing Test
+### ⌨️ Teste de Digitação
 
-Teste de digitação para praticar interatividade e manipulação do DOM. [Descreva aqui o que ele faz: contador de tempo, palavras por minuto, etc.]
+Teste de 30 segundos com três níveis de dificuldade, PPM e precisão em tempo real e ranking dos melhores resultados salvo no navegador com `localStorage`.
 
 **Tecnologias:** HTML · CSS · JavaScript
 
-[🔗 Ver site](https://github.com/kaxinhoskx/Typing-Test) · [📁 Ver repositório](https://github.com/kaxinhoskx/Typing-Test)
+[🔗 Ver site](https://kaxinhoskx.github.io/Typing-Test/) · [📁 Ver repositório](https://github.com/kaxinhoskx/Typing-Test)
 
 ---
 
