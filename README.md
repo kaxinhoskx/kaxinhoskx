@@ -1,12 +1,12 @@
-<h1 align="center">Olá, eu sou Kayo Alves Pereira Zamboni 👋</h1>
+<h1 align="center">Olá, eu sou Kayo 👋</h1>
 
 <p align="center">
   Desenvolvedor front-end em formação, focado em criar interfaces simples, responsivas e funcionais.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/kayo-alves-pereira-zamboni-26419b426/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kayookaxiis@Outlook.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 ---
@@ -14,10 +14,10 @@
 ## 👨‍💻 Sobre mim
 
 - 🚀 Construí projetos reais com **HTML, CSS e JavaScript**, como um [app de clima](https://kaxinhoskx.github.io/app-de-clima-pog/) que consome API, usa geolocalização e funciona no celular
-- 📚 Atualmente estudando **[- 📚 Atualmente estudando **Python**, **C#** e **Cibersegurança**, além de aprimorar meus projetos em **HTML, CSS e JavaScript**]**
-- 🎯 Busco minha **primeira oportunidade** como desenvolvedor [front-end / júnior / estágio]
+- 📚 Atualmente estudando **Python, C# e Cibersegurança**, além de aprimorar meus projetos em **HTML, CSS e JavaScript**
+- 🎯 Busco minha **primeira oportunidade** como desenvolvedor, com interesse em **segurança da informação**
 - 💡 Aprendo na prática: construo, erro, corrijo e publico
-- 📍 [Arraial do Cabo, Rio de Janeiro] · Aberto a [remoto / presencial / híbrido]
+- 📍 Arraial do Cabo, RJ · Aberto a **remoto, presencial ou híbrido**
 
 ---
 
