@@ -14,7 +14,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🚀 Construí projetos reais com **HTML, CSS e JavaScript**, como um [app de clima](https://kaxinhoskx.github.io/app-de-clima-pog/) que consome API, usa geolocalização e funciona no celular
-- 📚 Atualmente estudando **[]**
+- 📚 Atualmente estudando **[- 📚 Atualmente estudando **Python**, **C#** e **Cibersegurança**, além de aprimorar meus projetos em **HTML, CSS e JavaScript**]**
 - 🎯 Busco minha **primeira oportunidade** como desenvolvedor [front-end / júnior / estágio]
 - 💡 Aprendo na prática: construo, erro, corrijo e publico
 - 📍 [Arraial do Cabo, Rio de Janeiro] · Aberto a [remoto / presencial / híbrido]
