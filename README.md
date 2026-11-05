@@ -24,7 +24,7 @@
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" alt="Tecnologias">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,docker,git,github" alt="Tecnologias">
 </p>
 
 ---
@@ -46,6 +46,14 @@ Teste de 30 segundos com três níveis de dificuldade, PPM e precisão em tempo 
 **Tecnologias:** HTML · CSS · JavaScript
 
 [🔗 Ver site](https://kaxinhoskx.github.io/Typing-Test/) · [📁 Ver repositório](https://github.com/kaxinhoskx/Typing-Test)
+
+### 💰 API de Controle de Gastos
+
+API REST com autenticação JWT, senhas com bcrypt, isolamento de dados por usuário, testes automatizados com pytest, Docker e CI no GitHub Actions.
+
+**Tecnologias:** Python · FastAPI · SQLAlchemy · JWT · Docker
+
+[📁 Ver repositório](https://github.com/kaxinhoskx/api-controle-de-despesas)
 
 ---
 
